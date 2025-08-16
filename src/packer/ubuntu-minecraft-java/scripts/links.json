@@ -1,0 +1,26 @@
+{
+    "result": {
+        "links": [
+            {
+                "downloadType": "serverBedrockWindows",
+                "downloadUrl": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.95.1.zip"
+            },
+            {
+                "downloadType": "serverBedrockLinux",
+                "downloadUrl": "https://www.minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.95.1.zip"
+            },
+            {
+                "downloadType": "serverBedrockPreviewWindows",
+                "downloadUrl": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.20.zip"
+            },
+            {
+                "downloadType": "serverBedrockPreviewLinux",
+                "downloadUrl": "https://www.minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.20.zip"
+            },
+            {
+                "downloadType": "serverJar",
+                "downloadUrl": "https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar"
+            }
+        ]
+    }
+}
