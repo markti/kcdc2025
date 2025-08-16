@@ -4,3 +4,4 @@
 **/.debug*.sh
 **/.debug.tfvars
 **/.debug*.tfvars
+**/.DS_Store
